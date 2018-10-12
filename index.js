@@ -10,10 +10,10 @@ function multiply(a,b){
 function divide(a,b){
   return a/b
 }
-function increment(a){
+function inc(a){
   return a+1
 }
-function decrement(a){
+function dec(a){
   return a-1
 }
 function makeInt(a){
